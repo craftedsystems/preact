@@ -733,7 +733,6 @@ export namespace JSXInternal {
 		slot?: string;
 		span?: number;
 		spellcheck?: boolean;
-		spellCheck?: boolean;
 		src?: string;
 		srcset?: string;
 		srcDoc?: string;
