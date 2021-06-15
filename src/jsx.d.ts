@@ -753,10 +753,6 @@ export namespace JSXInternal {
 		wmode?: string;
 		wrap?: string;
 
-		// Non-standard Attributes
-		autocapitalize?: string;
-		autoCapitalize?: string;
-
 		// RDFa Attributes
 		about?: string;
 		datatype?: string;
